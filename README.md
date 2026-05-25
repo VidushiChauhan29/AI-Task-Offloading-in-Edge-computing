@@ -150,10 +150,3 @@ The model transfers to new hardware without retraining. When `deploy_anywhere.py
 
 Supervised by **Dr. Avtar Singh**, Amity School of Engineering and Technology
 
----
-
-## References
-
-1. Mnih et al. (2015). Human-level control through deep reinforcement learning. *Nature*, 518(7540).
-2. Liu et al. (2024). A deep Q-learning model for sequential task offloading in edge AI systems.
-3. Grand View Research (2023). Mobile Edge Computing Market Size & Growth Report, 2030.
